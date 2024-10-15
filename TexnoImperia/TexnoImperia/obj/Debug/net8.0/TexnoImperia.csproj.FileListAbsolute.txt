@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\bin\Debug\net8.0\TexnoImperia.exe
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\bin\Debug\net8.0\TexnoImperia.deps.json
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\bin\Debug\net8.0\TexnoImperia.runtimeconfig.json
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\bin\Debug\net8.0\TexnoImperia.dll
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\bin\Debug\net8.0\TexnoImperia.pdb
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\TexnoImperia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\TexnoImperia.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\TexnoImperia.AssemblyInfo.cs
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\TexnoImperia.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\TexnoImperia.dll
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\refint\TexnoImperia.dll
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\TexnoImperia.pdb
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\TexnoImperia.genruntimeconfig.cache
+C:\Users\HP\source\repos\TexnoImperia\TexnoImperia\obj\Debug\net8.0\ref\TexnoImperia.dll

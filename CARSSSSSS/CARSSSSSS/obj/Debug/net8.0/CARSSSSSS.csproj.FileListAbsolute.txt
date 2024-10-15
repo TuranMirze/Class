@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\bin\Debug\net8.0\CARSSSSSS.exe
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\bin\Debug\net8.0\CARSSSSSS.deps.json
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\bin\Debug\net8.0\CARSSSSSS.runtimeconfig.json
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\bin\Debug\net8.0\CARSSSSSS.dll
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\bin\Debug\net8.0\CARSSSSSS.pdb
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\CARSSSSSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\CARSSSSSS.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\CARSSSSSS.AssemblyInfo.cs
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\CARSSSSSS.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\CARSSSSSS.dll
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\refint\CARSSSSSS.dll
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\CARSSSSSS.pdb
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\CARSSSSSS.genruntimeconfig.cache
+C:\Users\HP\source\repos\CARSSSSSS\CARSSSSSS\obj\Debug\net8.0\ref\CARSSSSSS.dll
